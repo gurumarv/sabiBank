@@ -15,12 +15,19 @@ Key Features:
 5. Banking Operations: SabiBank supports a variety of essential banking operations:
 
 Log In: Authenticate users and generate JWT tokens for authorized access.
+
 Create Account: Register new user accounts with associated banking details.
+
 Credit: Add funds to user accounts.
+
 Transfer: Transfer funds between accounts, either within the same bank or to external accounts.
+
 Debit: Deduct funds from user accounts for transactions.
+
 Name Enquiry: Retrieve account holder information based on account number.
+
 Balance Enquiry: Check account balances.
+
 Bank Statement: Generate statements detailing account transactions over a specified period.
 
 6. Scalability and Performance: Designed for scalability and performance, SabiBank optimizes resource utilization and response times, allowing for high-concurrency handling and efficient processing of banking requests.
