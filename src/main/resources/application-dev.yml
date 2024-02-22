@@ -1,0 +1,28 @@
+spring:
+  mail:
+    host: sandbox.smtp.mailtrap.io
+    port: 465
+    username: 4f42213411678d
+    password: ee1bbc1e01cf57
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/sabi_bank
+    username: root
+    password: igbinosa34
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    format-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+app:
+  jwt-secret: 5367566B59703373357638792F423F4528482B4D6251655468576D5A71347437
+  jwt-expiration: 86400000
