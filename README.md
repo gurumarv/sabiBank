@@ -4,15 +4,15 @@ SabiBank is a robust banking API developed using the Spring Boot framework, desi
 
 Key Features:
 
-1.Spring Boot Framework: Built on top of the Spring Boot framework, SabiBank offers a scalable and flexible architecture, facilitating rapid development and deployment of banking services.
+1. Spring Boot Framework: Built on top of the Spring Boot framework, SabiBank offers a scalable and flexible architecture, facilitating rapid development and deployment of banking services.
 
-2.Spring Security Integration: With Spring Security, SabiBank implements robust authentication and authorization mechanisms, safeguarding sensitive financial data and operations against unauthorized access and malicious attacks.
+2. Spring Security Integration: With Spring Security, SabiBank implements robust authentication and authorization mechanisms, safeguarding sensitive financial data and operations against unauthorized access and malicious attacks.
 
-3.JWT Token Authentication: SabiBank utilizes JWT tokens for secure authentication, enabling seamless communication between clients and the API while maintaining stateless session management. This ensures efficient handling of authentication without the need for server-side sessions.
+3. JWT Token Authentication: SabiBank utilizes JWT tokens for secure authentication, enabling seamless communication between clients and the API while maintaining stateless session management. This ensures efficient handling of authentication without the need for server-side sessions.
 
-4.Swagger Documentation: SabiBank is documented using Swagger, providing interactive and comprehensive API documentation. Developers can easily explore and understand the API endpoints, request/response schemas, and authentication mechanisms, streamlining the integration process and reducing development time.
+4. Swagger Documentation: SabiBank is documented using Swagger, providing interactive and comprehensive API documentation. Developers can easily explore and understand the API endpoints, request/response schemas, and authentication mechanisms, streamlining the integration process and reducing development time.
 
-5.Banking Operations: SabiBank supports a variety of essential banking operations:
+5. Banking Operations: SabiBank supports a variety of essential banking operations:
 
 Log In: Authenticate users and generate JWT tokens for authorized access.
 Create Account: Register new user accounts with associated banking details.
@@ -23,9 +23,9 @@ Name Enquiry: Retrieve account holder information based on account number.
 Balance Enquiry: Check account balances.
 Bank Statement: Generate statements detailing account transactions over a specified period.
 
-6.Scalability and Performance: Designed for scalability and performance, SabiBank optimizes resource utilization and response times, allowing for high-concurrency handling and efficient processing of banking requests.
+6. Scalability and Performance: Designed for scalability and performance, SabiBank optimizes resource utilization and response times, allowing for high-concurrency handling and efficient processing of banking requests.
 
-7.Documentation and Support: In addition to Swagger documentation, SabiBank provides extensive API specifications and dedicated support channels to assist developers in integrating the API seamlessly into their applications and resolving any issues promptly.
+7. Documentation and Support: In addition to Swagger documentation, SabiBank provides extensive API specifications and dedicated support channels to assist developers in integrating the API seamlessly into their applications and resolving any issues promptly.
 
 Use Cases:
 
