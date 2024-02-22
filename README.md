@@ -14,21 +14,21 @@ Key Features:
 
 5. Banking Operations: SabiBank supports a variety of essential banking operations:
 
-Log In: Authenticate users and generate JWT tokens for authorized access.
+   Log In: Authenticate users and generate JWT tokens for authorized access.
 
-Create Account: Register new user accounts with associated banking details.
+   Create Account: Register new user accounts with associated banking details.
 
-Credit: Add funds to user accounts.
+   Credit: Add funds to user accounts.
 
-Transfer: Transfer funds between accounts, either within the same bank or to external accounts.
+   Transfer: Transfer funds between accounts, either within the same bank or to external accounts.
 
-Debit: Deduct funds from user accounts for transactions.
+   Debit: Deduct funds from user accounts for transactions.
 
-Name Enquiry: Retrieve account holder information based on account number.
+   Name Enquiry: Retrieve account holder information based on account number.
 
-Balance Enquiry: Check account balances.
+   Balance Enquiry: Check account balances.
 
-Bank Statement: Generate statements detailing account transactions over a specified period.
+   Bank Statement: Generate statements detailing account transactions over a specified period.
 
 6. Scalability and Performance: Designed for scalability and performance, SabiBank optimizes resource utilization and response times, allowing for high-concurrency handling and efficient processing of banking requests.
 
@@ -36,11 +36,11 @@ Bank Statement: Generate statements detailing account transactions over a specif
 
 Use Cases:
 
-Fintech Applications: SabiBank serves as a backend infrastructure for fintech applications, enabling developers to incorporate banking functionality seamlessly into their platforms while ensuring compliance with security and regulatory standards.
+  Fintech Applications: SabiBank serves as a backend infrastructure for fintech applications, enabling developers to incorporate banking functionality seamlessly into their platforms while ensuring compliance with security and regulatory standards.
 
-Online Banking Systems: SabiBank can be integrated into online banking systems, empowering users to perform various banking operations securely over the internet or mobile devices.
+  Online Banking Systems: SabiBank can be integrated into online banking systems, empowering users to perform various banking operations securely over the internet or mobile devices.
 
-Payment Gateways: By leveraging SabiBank, payment gateways can enhance their transaction processing capabilities with robust authentication and authorization mechanisms, ensuring secure and reliable payment transactions.
+  Payment Gateways: By leveraging SabiBank, payment gateways can enhance their transaction processing capabilities with robust authentication and authorization mechanisms, ensuring secure and reliable payment transactions.
 
 Conclusion:
 
