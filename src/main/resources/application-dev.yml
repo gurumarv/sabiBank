@@ -13,7 +13,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/sabi_bank
     username: root
-    password: igbinosa34
+    password: password
 
   jpa:
     hibernate:
